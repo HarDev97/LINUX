@@ -1,0 +1,2 @@
+***Comandos LINUX***
+1. Deshacer el git init, sirve para cuando se inicia donde no se debía -> rm -rf .git 
